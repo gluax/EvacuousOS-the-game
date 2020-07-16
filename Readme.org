@@ -4,3 +4,5 @@
 For details on installing and playing the game, see [[file:doc/20200716180312-index.org][doc/index]].
 
 For details on programming and hacking the game, see [[file:dev/20200716180708-index.org][dev/index]].
+
+EvacuousOS: The Game © Jonathan Pavlik, Devin Pohl, Edward R. Minnix III, Andrew Soutar, Eric S. Londres
