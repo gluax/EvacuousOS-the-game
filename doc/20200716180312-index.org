@@ -1,2 +1,2 @@
-#+title: index
+#+title: Index
 Hello new jersey
