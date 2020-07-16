@@ -1,0 +1,2 @@
+#+title: Index
+Welcome to EvacuousOS: The Game! To get started clone the repo and the program the game.
