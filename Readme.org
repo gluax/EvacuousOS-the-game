@@ -1,4 +1,5 @@
 #+title: Evacuous: The Game
+#+author: Jonathan Pavlik, Devin Pohl, Edward R. Minnix III, Andrew Soutar, Eric S. Londres
 
 For details on installing and playing the game, see [[file:doc/20200716180312-index.org][doc/index]].
 
